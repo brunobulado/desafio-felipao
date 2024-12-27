@@ -1,1 +1,2 @@
-console.log("primeiro desafio");
+let nome = "Bruno Bulado"
+console.log("nome");
